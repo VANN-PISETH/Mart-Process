@@ -1,0 +1,18 @@
+The project creator and developer of the AIB mart process :
+
+                       1-Vann Piseth
+                       2-Chea sreyneath
+                       3-Heng Oudom
+
+          + Our project content is the system base on mart
+            store  processing . There are so many items for
+            customers to buy . This system has more than 100
+            products . 
+
+          + We’ve used Dev-C++ for our code systems.
+            It produces nice code, it is up to date on C++ standards,
+            it is portable to many platforms, it is free.
+            Dev-C++, free and safe download .
+        
+          + We created this code system by using the information about mart only.
+
